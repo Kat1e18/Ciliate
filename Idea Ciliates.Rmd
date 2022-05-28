@@ -1,0 +1,112 @@
+---
+title: "Ideas"
+Date: 25 May 2022
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+4  papers:
+ 
+1. *Frantal et al. (2022)* 
+    - **Molecular Methods**
+    - First part they describe is the single-cell sequencing for when we would obtain a cell from the field and want to sequence it so we have the genome
+    - Use of oligo-mesotrophic(TS1 0-60) - i.e; ´good - fair´ water quality.
+    - Sampling was conducted at the deepest point of lake.
+    - Water samples were collected along depth gradients from the surface to above lake bottom - (5-L Schindler-Patalas sampler)
+    - A plankton net - (10-μm net gauze)
+    - Samples were transported in 1-L plastic bottles at ambient lake water temperatures
+    - Processed right after sampling
+  
+    
+2. *Proschold et al. (2022)*
+    - 'High-throughput sequencing of the V9 18S rDNA region...' on page 16 - for Field Sampling
+
+3. *Pitsch et al. (2019) *
+    - obtain OTUs for all species in the water sampling when we would filter them
+
+4. *Stoeck et al. (2010)*
+    - primers used
+     
+5. Protozoological Monographs - Volume 4, Jan 2009 *Rudolf Röttger, Robert Knight and Wilhelm Foissner (Eds.)*
+
+   - **Practical Techniques - pg 6** 
+   - the samples must be taken by means of a bottle or by a vertical water sampler. ln the laboratory, the sample can then be concentrated by fi ltration, centrifugation or sed imentation.
+All samples must be kept cool, in a thermos flask or in thermo bags. ln the laboratory they must be kept in a fridge or in a cold culture room.
+    - are extremely delicate and must be examined under the microscope as soon as possible.
+    - Parallel samples should always be fixed at once in acidic Lugol's iodine untill light brown **Stain**
+    - Methods and recipes are given by *Stein (1973)*
+    - **For examination of flagella, envelopes and silica scales and bristles**
+    - **silica structures** - are best studied in dry mounts. A drop of the sample is simply dried on a coverslip, and the coverslip with the sample downwards is then mounted on a slide by means of Canada balsam or nail varnish in the corners, with objectives x 40 or x 100 (oil immersion).
+    - **scales Structures** -  Lugol-fixed material is rinsed in distilled water in a centrifuge. By means of a micropipette a drop of the centrifugate is placed on a formvar coated grid and dried. The material is then ready for examination in the transmission **electron microscope**.
+  
+    - 
+    
+---
+
+Methods we need:
+
+1. For Morphological identification - (how to prepare samples for identification)
+
+2. Culturing of **Natural** ciliates populations.
+    - Try to grow them in the lab. 
+    - Have to check the species and environment requirements.
+
+3. Assessment for growth curves and traits.
+
+---
+
+
+# Sampling
+
+## 1. Parameters of ciliate water environment.
+
+1. TSI of the pond.
+*How to measure Trophic Status of th water body?*
+
+2. OR use of field meter - measure of dissolved Oxygen level(lower the % means poor quality of water) - **YSI PRO 2030** with use of probe
+
+3. PH of water (use of field meter or pH meter) - acidic or basic - usual is between 6 -8 
+
+4. Location
+
+5. Depth
+
+6. Temperature
+
+7. Nitrate
+
+8. Phosphate (Pocket colorimeter II)
+
+9. Maybe Ammonia
+
+
+![colorimeter 1](colorimeter1.png)
+
+![colorimter 2](colorimeter2.png)
+
+## 2. Methods
+
+1. Choose fast flowing wtaer with no steady. No too deep as to prevent stagnant water
+
+2. Rinse sampling water 3 times before taking actual sample
+
+## 3. Recording samples
+ - Proper label
+ - Proper pen
+ - Sample location
+ - Sample time
+ - Field test results
+ - Any special notes
+ 
+
+
+
+    
+
